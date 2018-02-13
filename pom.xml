@@ -51,7 +51,7 @@
 	</repository>
  
 	<snapshotRepository>
-		<id>emeaproj</id>
+		<id>CIDemo</id>
 		<name>Internal Releases</name>
 		<url>http://34.244.246.25:8081/repository/maven-snapshots/</url>
 	</snapshotRepository>
