@@ -45,15 +45,15 @@
   
   <distributionManagement>
 	<repository>
-		<id>emeaproj</id>
+		<id>CIDemo</id>
 		<name>Internal Releases</name>
-		<url>http://54.154.4.234:8081/repository/maven-releases/</url>
+		<url>http://34.244.246.25:8081/repository/maven-releases/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>emeaproj</id>
 		<name>Internal Releases</name>
-		<url>http://54.154.4.234:8081/repository/maven-snapshots/</url>
+		<url>http://34.244.246.25:8081/repository/maven-snapshots/</url>
 	</snapshotRepository>
 
 </distributionManagement>
